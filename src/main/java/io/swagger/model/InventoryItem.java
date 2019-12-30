@@ -16,7 +16,7 @@ import javax.validation.constraints.*;
  * InventoryItem
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-11-22T19:39:28.611Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-12-30T05:54:51.453Z[GMT]")
 public class InventoryItem   {
   @JsonProperty("id")
   private UUID id = null;
